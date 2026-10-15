@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "mode": "runtime-only",
+  "sourceCommit": "d20dc22c19a9101647a8198f46dc4037277da7cc",
+  "aggregateRelease": {
+    "repository": "flyfish-dev/file-viewer",
+    "tag": "v3.2.0",
+    "commit": "8cf8e2795300ada3bb27a090c786bdf2d0211ae4"
+  },
+  "package": {
+    "packageName": "@file-viewer/vue2.7-full",
+    "version": "3.2.0",
+    "tarball": "file-viewer-vue2.7-full-3.2.0.tgz",
+    "tarballSize": 5501,
+    "sha256": "bd684876c817e0d0d2d82d88ea7eee4aa17c23becd5a7578bba44a7c73fdb05d",
+    "fileCount": 9,
+    "integrity": "sha512-F7xoaszQpqYcBw+9nNfJu+Euwp+QyHt3zBSrFpB57Go1trMb1jTJuEtLqrpnb5PZ7pH3YoJoiF9Z+Xd2nF93Ug==",
+    "license": "Apache-2.0",
+    "releaseArtifact": {
+      "includeTarball": true
+    }
+  }
+}
